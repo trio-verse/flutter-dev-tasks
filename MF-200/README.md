@@ -1,4 +1,4 @@
-# 📱 Mid-Level Flutter Task: Offline-First Todo & Notes App
+# 📱 MF-200 Flutter Task: Offline-First Todo & Notes App
 
 ## 📝 Description
 Build an advanced, production-grade Todo and Notes application that operates primarily offline using a local database, and automatically synchronizes data with a remote server/mock API whenever an active internet connection is available.
@@ -41,6 +41,6 @@ Build an advanced, production-grade Todo and Notes application that operates pri
 1. Create a new **Private or Public Repository** on your personal GitHub account and push your code there.
 2. Ensure your repository includes a detailed `README.md` explaining the architecture choices, state management used, and instructions on how to run the app and tests.
 3. Return to our main Tasks repository and open a **New Issue**.
-4. Use the following title format for your Issue: `submission/flutter-mid: YourName`.
+4. Use the following title format for your Issue: `submission/MF-200: YourName`.
 5. Inside the Issue body, provide the **link to your personal repository** along with any relevant screenshots or a short video recording demonstrating the offline capability.
 6. Wait for the Tech Lead's review; feedback and code discussions will take place directly within the comments of your Issue.
