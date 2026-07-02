@@ -40,6 +40,6 @@ Build a simple 2-screen Flutter application that fetches food categories from a 
 1. Create a new **Private or Public Repository** on your personal GitHub account and push your code there.
 2. Ensure your repository includes a simple `README.md` explaining how to run the app.
 3. Return to our main Tasks repository and open a **New Issue**.
-4. Use the following title format for your Issue: `[Submission] [Flutter] [Junior] - YourName`.
+4. Use the following title format for your Issue: `submission/flutter-junior: YourName`.
 5. Inside the Issue body, provide the **link to your personal repository** along with any relevant screenshots or a short video recording of the working app.
 6. Wait for the Tech Lead's review; feedback and discussion will take place directly within the comments of your Issue.
